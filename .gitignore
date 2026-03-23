@@ -1,0 +1,15 @@
+# Built application files
+*.apk
+
+# Gradle files
+.gradle/
+
+# Build directory
+build/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# macOS system files
+.DS_Store
