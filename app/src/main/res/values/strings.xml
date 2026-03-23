@@ -1,0 +1,1 @@
+<resources>\n    <string name="app_name">Quick Clipboard</string>\n    <string name="welcome_message">Welcome to Quick Clipboard!</string>\n    <string name="copy_button">Copy</string>\n    <string name="paste_button">Paste</string>\n    <string name="settings">Settings</string>\n    <string name="about">About</string>\n</resources>
